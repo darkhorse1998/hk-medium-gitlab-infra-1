@@ -6,7 +6,7 @@ Link: [Deploying Application through Gitlab Part 1](https://medium.com/@hrishike
 
 ## How To Import GitHub Repository In Gitlab?
 
-## Make A Copy
+### Make A Copy
 
 1. Make a fork of this repository so that you would have a copy in your account to play around.
 
