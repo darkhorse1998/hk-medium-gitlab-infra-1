@@ -1,2 +1,5 @@
-# hk-medium-gitlab-infra-1
-Project for demonstrating Gitlab pipelines to deploy services
+# hk-medium-gitlab-part-1
+
+## Medium Article Link
+
+Link: 
