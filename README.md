@@ -2,7 +2,7 @@
 
 ## Medium Article Link
 
-Link: 
+Link: https://medium.com/@hrishikeshkalita11/deploying-application-through-gitlab-part-1-eb2d7fc9d21d
 
 ## How To Import GitHub Repository In Gitlab?
 
